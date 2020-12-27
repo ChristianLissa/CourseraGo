@@ -1,5 +1,5 @@
 /*
-I love GIT
+I love GIT, really
 */
 
 package main
